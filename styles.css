@@ -48,6 +48,10 @@ body{
 	/* transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1); */
 }
 
+.hour-hand{
+	background: gray;
+}
+
 .attribution {
   position: absolute;
   bottom: 0;
