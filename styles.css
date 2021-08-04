@@ -48,3 +48,23 @@ body{
 	/* transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1); */
 }
 
+.attribution {
+  position: absolute;
+  bottom: 0;
+  font-size: 0.75rem;
+  line-height: 20px;
+  text-align: center;
+  color: hsla(0, 0%, 100%, 0.6);
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: bold;
+}
+
+.attribution a:hover {
+  color: hsl(277, 64%, 61%);
+}
